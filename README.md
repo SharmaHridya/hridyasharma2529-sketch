@@ -102,4 +102,4 @@ I'm always open to collaborating on interesting projects or just having a good c
 <p align="center">
   <em>✨ "Building one project at a time, one bug at a time." ✨</em>
 </p>
-![Snake animation](https://raw.githubusercontent.com/hridyasharma2529-sketch/hridyasharma2529-sketch/output/github-contribution-grid-snake.svg)
+
