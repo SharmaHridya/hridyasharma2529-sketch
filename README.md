@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Hridya Sharma</h1>
 
 <p align="center">
-  🎓 Student at <strong>NIT Jalandhar</strong> &nbsp;|&nbsp; 💻 Frontend Developer &nbsp;|&nbsp; 🎮 Game Builder &nbsp;|&nbsp; 🎨 UI/UX Enthusiast
+  🎓 Student at <strong>NIT Jalandhar</strong> &nbsp;|&nbsp; 💻 Frontend Developer &nbsp |&nbsp; 🎨 UI/UX Enthusiast
 </p>
 
 <p align="center">
