@@ -99,14 +99,14 @@ A webcam-powered music app that uses AI body/wrist detection to trigger songs. H
 
 ---
 
-### 🥁 Drum Kit
+### 🥁 HSN Matcher
 
-An interactive browser-based drum simulator that allows users to play different drum sounds using keyboard keys or mouse clicks.
+a tool that takes a plain-English product description and returns the most likely HSN/SAC code, GST rate, and a confidence-ranked shortlist with reasoning.
 
-- **Tech Stack:** HTML · CSS · JavaScript
-- **Highlights:** Keyboard Controls · Sound Effects · Interactive Animations
-- 🔗 [GitHub](https://github.com/hridyasharma2529-sketch)
 
+- **Tech Stack:** Django REST Framework · React · PostgreSQL + pgvector · Jina AI embeddings · Ollama Cloud (LLM reranking) · deployed on Render + Netlify
+
+-https://hsnmatcher.netlify.app/
 ---
 
 ### 🎲 Dice Roll Game
